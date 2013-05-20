@@ -1,0 +1,23 @@
+
+
+
+//
+//
+/**
+
+							MAIN HEADER FOR -PHLASH- SIMULATION LIBRARY
+
+
+
+
+*/
+
+
+#define _V1(x, y) Vec2D.v1.set(x, y)
+#define _V2(x, y) Vec2D.v2.set(x, y)
+#define _V3(x, y) Vec2D.v3.set(x, y)
+#define _V4(x, y) Vec2D.v4.set(x, y)
+#define _V5(x, y) Vec2D.v5.set(x, y)
+#define _V6(x, y) Vec2D.v6.set(x, y)
+#define _V7(x, y) Vec2D.v7.set(x, y)
+#define _V8(x, y) Vec2D.v8.set(x, y)
